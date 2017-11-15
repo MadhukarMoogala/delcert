@@ -8,7 +8,7 @@
 
 //This is orginal work belongs to author 'deepred' https://forum.xda-developers.com/showthread.php?p=2508061#post2508061
 
-//moogalm: Just migrated the code to VS2015, added function for error message.
+//11/15/2017 -moogalm: Just migrated the code to VS2015, added function for error message.
 
 
 #include "stdafx.h"
